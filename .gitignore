@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+dataset/
+features/
+experiments/
+runs/
+*.pt
+*.pth
+*.tif
+*.tiff
